@@ -10,11 +10,8 @@
 
 # ![ip](https://github.com/HebaShaban/terraform-task2/assets/128882939/5bf470a7-1f0f-4e24-b797-fe1d0dd3f746)
 
-#![out apache](https://github.com/HebaShaban/terraform-task2/assets/128882939/c79afee9-cca9-42a5-8dc1-d0072c4b6760)
-
 #![out ut](https://github.com/HebaShaban/terraform-task2/assets/128882939/7b7ebfc3-7129-4b39-b53e-71364c4be6a9)
 
-
-
+#![out apache](https://github.com/HebaShaban/terraform-task2/assets/128882939/c79afee9-cca9-42a5-8dc1-d0072c4b6760)
 
 
